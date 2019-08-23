@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':analytics'
 rootProject.name='DSPFirebaseSDK'
